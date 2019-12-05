@@ -7,7 +7,9 @@ class Cat
   
 # cat = "Maru"
 # maru.name = "Maru"
+  
+  def meow
+    puts meow
+  end
 
-
-maru.meow
 end  
