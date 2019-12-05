@@ -1,3 +1,7 @@
-class catch
+class Cat
+  attr_accessor
+  
+  
+  
   
 end  
