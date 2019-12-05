@@ -7,4 +7,7 @@ class Cat
   
 # cat = "Maru"
 # maru.name = "Maru"
+
+
+maru.meow
 end  
