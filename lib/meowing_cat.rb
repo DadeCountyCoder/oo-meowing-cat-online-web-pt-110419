@@ -6,4 +6,5 @@ class Cat
   end
   
  cat = "Maru"
+ maru.name = "Maru"
 end  
